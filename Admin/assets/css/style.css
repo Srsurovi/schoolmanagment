@@ -1,0 +1,9 @@
+.modal-backdrop.in {
+    filter: alpha(opacity=50);
+    opacity: .5;
+    display: none;
+}
+
+img{
+	max-width:100%;
+}
